@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Development and Machine Learning**
 
-- 💬 Ask me about **Python, C, Django, MySQL**
+- 💬 Ask me about **Python, ML, Django, MySQL**
 
 - 📫 How to reach me **ankurchanda198@gmail.com**
 
