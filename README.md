@@ -1,4 +1,10 @@
-[![Header]([https://camo.githubusercontent.com/5346f5a9b63e9e93ff8265ebb05eeda7fc03e48dfe766ba177c788e5c65c6c86/68747470733a2f2f312e62702e626c6f6773706f742e636f6d2f2d37413457796e774c734d772f58624270435847386648492f41414141414141414d74342f754f613162704c736b5967727747626c6c6853753253446a5f4d69673853584a51434c63424741735948512f73313630302f323030305f36303070782e676966](https://miro.medium.com/v2/resize:fit:828/1*IRGHmiGsa16stedQvIaZfw.gif))]
+<!-- 
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&text=%20%20Hey,%20Habibi!%20%20&fontAlign=30&fontSize=30&textBg=true&desc=I'm%20Yuchen.&descAlign=60&descAlignY=50)
+ -->
+ 
+ <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2500&pause=500&multiline=true&width=480&height=75&lines=Ankur+Chanda;Research+Intern+%7C+Btech+Student+%7C+Computer+Science;AI+%7C+Machine+Leaning+" alt="Typing SVG" />
+</a>
 <h1 align="center">Hi 👋, I'm Ankur Chanda</h1>
 <h3 align="center">A passionate Machine Learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
@@ -6,13 +12,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurac7&label=Profile%20views&color=0e75b6&style=flat" alt="ankurac7" /> </p>
 
 
-- 🌱 I’m currently learning **Web Development and Machine Learning**
+- 🌱 I’m currently learning **React and ML**
 
 - 💬 Ask me about **Python, ML, Django, MySQL**
 
 - 📫 How to reach me **ankurchanda198@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ankur-chanda-20759621a/](https://www.linkedin.com/in/ankur-chanda-20759621a/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ankur-chanda-20759621a/)
 
 - ⚡ Fun fact **Apart from the tech enthusiast, I also like football.⚽**
 
@@ -33,3 +39,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankurac7&show_icons=true&locale=en" alt="ankurac7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankurac7&" alt="ankurac7" /></p>
+
+<p><img align="center" src="https://raw.githubusercontent.com/plexpt/plexpt/snake/github-snake.svg"></p>
