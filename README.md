@@ -3,7 +3,7 @@
  -->
  
  <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2500&pause=500&multiline=true&width=480&height=75&lines=Ankur+Chanda;Research+Intern+%7C+Btech+Student+%7C+Computer+Science;AI+%7C+Machine+Leaning+%7C+Data Science" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Georgia&size=16&duration=2500&pause=500&multiline=true&width=480&height=75&lines=Ankur+Chanda;Btech+Student+%7C+Computer+Science+and+Engg;AI+%7C+Machine+Leaning+%7C+Data Science" alt="Typing SVG" />
 </a>
 <h1 align="center">Hi 👋, I'm Ankur Chanda</h1>
 <h3 align="center">A passionate Machine Learner from India</h3>
@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankurac7&label=Profile%20views&color=0e75b6&style=flat" alt="ankurac7" /> </p>
 
 
-- 🌱 I’m currently learning **React and ML**
+- 🌱 I’m currently learning **Neural Networks and ML**
 
 - 💬 Ask me about **Python, ML, Django, MySQL**
 
